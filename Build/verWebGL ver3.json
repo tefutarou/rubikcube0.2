@@ -1,0 +1,13 @@
+{
+"companyName": "tefutarou",
+"productName": "rubikcube",
+"dataUrl": "verWebGL ver3.data.unityweb",
+"wasmCodeUrl": "verWebGL ver3.wasm.code.unityweb",
+"wasmFrameworkUrl": "verWebGL ver3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#76807C",
+"cacheControl": {"default": "must-revalidate"}
+}
